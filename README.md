@@ -1,4 +1,4 @@
-# Bookstore CLI by Lauren K
+# Bookstore Menu Assignment by Lauren K
 
 This is a simple bookstore database menu where you're able to do multiple things with the books, whether it's searching, updating, or finding new books to read across four categories: Science Fiction, Fantasy, Mystery, and Non-Fiction.
 
